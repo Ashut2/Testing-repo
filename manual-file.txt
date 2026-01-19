@@ -1,1 +1,2 @@
 # this is manually generated file 
+now changing for checking {git diff} command 
